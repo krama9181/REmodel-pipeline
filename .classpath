@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/textMining/banner.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/dragontool.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/heptag.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/lingpipe-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/mallet.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/MetaMapApi.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/prologbeans.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/stanford-corenlp-3.5.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/stanford-corenlp-3.5.2-models.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/stanford-corenlp-3.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/textMining/stanford-corenlp-3.5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
